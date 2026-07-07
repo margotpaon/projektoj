@@ -86,6 +86,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[lensstudioakvonivelojdato](https://github.com/AndreasKueck/lensstudioakvonivelojdato)** *([🌐Retejo](https://www.snapchat.com/lens/be1946fda5944ed4a4976e5e842f115e?type=SNAPCODE&metadata=01))* - Lens-Studio-pakaĵo por Snapchat-lenso "Akvoniveloj (dato)" prezentanta elstarajn akvonivelojn per la harmona metodo
 - **[transskribi_amr](https://github.com/AndreasKueck/transskribi_amr)** *([🌐Retejo](https://gist.github.com/AndreasKueck/70d1a4e33843289954114990e71e6ab4))* - Makroo de la Android-a MacroDroid, por transskribi amr-sondosieron
 - **[maro](https://github.com/AndreasKueck/maro)** *([🌐Retejo](https://gist.github.com/AndreasKueck/a62016ed4c3efaa477691de06af8d794))* - Pakaĵo por ret-apo kaj Android-apo eligantaj akvonivelojn prognozitajn per la harmona metodo
+- **[telefonikunchatgpt](https://github.com/AndreasKueck/telefonikunchatgpt)** *([🌐Retejo](https://medium.com/westphoenizier/en-esperanto-telefoni-kun-chatgpt-f97a6c3429dc))* - Replit-pakaĵo por programo, kiu ebligas telefonadon kun voĉo kreita per artefarita intelekto kaj respondanta surbaze de granda lingvomodelo de ChatGPT de Open AI
 
 ## 📜 Vortlistoj:
 
