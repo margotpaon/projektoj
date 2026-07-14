@@ -87,6 +87,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[transskribi_amr](https://github.com/AndreasKueck/transskribi_amr)** *([🌐Retejo](https://gist.github.com/AndreasKueck/70d1a4e33843289954114990e71e6ab4))* - Makroo de la Android-a MacroDroid, por transskribi amr-sondosieron
 - **[maro](https://github.com/AndreasKueck/maro)** *([🌐Retejo](https://gist.github.com/AndreasKueck/a62016ed4c3efaa477691de06af8d794))* - Pakaĵo por ret-apo kaj Android-apo eligantaj akvonivelojn prognozitajn per la harmona metodo
 - **[telefonikunchatgpt](https://github.com/AndreasKueck/telefonikunchatgpt)** *([🌐Retejo](https://medium.com/westphoenizier/en-esperanto-telefoni-kun-chatgpt-f97a6c3429dc))* - Replit-pakaĵo por programo, kiu ebligas telefonadon kun voĉo kreita per artefarita intelekto kaj respondanta surbaze de granda lingvomodelo de ChatGPT de Open AI
+- **[traduktelefono](https://github.com/AndreasKueck/traduktelefono)** *([🌐Retejo](https://medium.com/westphoenizier/traduktelefono-468e3baba566))* - Replit-pakaĵo por traduktelefono per ChatGPT kaj Twilio: Ambaŭ telefonantoj parolas sian propran lingvon kaj aŭdas en ĝin tradukon de la alia lingvo
 
 ## 📜 Vortlistoj:
 
