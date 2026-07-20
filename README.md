@@ -41,8 +41,9 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[Esperantists nask by day](https://github.com/JaviRamosLab/Esperantists-nask-by-day)** ~~*([🌐 Ĉi tiu retejo jam ne ekzistas](https://javiramoslab.com/Esperantists-nask-by-day/))*~~ - Listo de esperantistoj laŭ naskiĝtago (hodiaŭaj naskiĝintoj)
 - **[Verdkomunumo](https://github.com/atraineedeveloper/verdkomunumo)** *([🌐 Retejo](https://verdkomunumo.vercel.app/))* - Socia reto por parolantoj de Esperanto
 - **[lensstudioobjektoj](https://github.com/AndreasKueck/lensstudioobjektoj)** *([🌐Retejo](https://www.snapchat.com/lens/6e0e3f071a0e41699d6a210516708f96))* - Lens-Studio-pakaĵo por Snapchat-lenso "Objektoj" prezentanta la situojn de Zamenhof/Esperanto-objektoj (ZEO-oj) plej proksimaj al la uzanto
-- **[Parolejo](https://github.com/bryan-parolejo)** *([🌐 Retejo](https://parolejo.app))* - Esperanto-kurso por Androido kaj iOS ne bezonanta retkonekton kaj baziĝanta sur la Zagreb-metoda kurso [esperanto12.net](https://esperanto12.net/) 
-
+- **[kurso-zagreba-metodo](https://github.com/esperanto/kurso-zagreba-metodo)** *([🌐 Retejo](https://esperanto12.net))* - La kurso laŭ la [Zagreba metodo](https://eo.wikipedia.org/wiki/Zagreba_metodo), ciferecigita. Ekzistas kiel retejo Esperanto12.net sed ankaŭ eblas krei aliajn eligojn, ekzemple PDF, tra Markown.
+- **[Parolejo](https://github.com/bryan-parolejo)** *([🌐 Retejo](https://parolejo.app))* - Esperanto-kurso por Androido kaj iOS ne bezonanta retkonekton kaj baziĝanta sur la [Zagreb-metoda kurso](https://github.com/esperanto/kurso-zagreba-metodo)
+ 
 ## 🧩 Kromprogramoj (addons):
 
 - **[Esperanto Spellchecker](https://extensions.libreoffice.org/extensions/esperanto-spellchecker-thesaurus-and-hyphenizer)** (LibreOffice)
